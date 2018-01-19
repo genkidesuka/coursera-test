@@ -1,0 +1,5 @@
+git clone <url>
+git status
+git add <file>
+git checkout master
+git commit -m "message"
